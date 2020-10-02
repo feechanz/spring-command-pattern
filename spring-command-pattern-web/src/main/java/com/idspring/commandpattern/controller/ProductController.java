@@ -27,4 +27,10 @@ public class ProductController {
   public Mono<Response<Product>> detail(@PathVariable("productId") String productId) {
     throw new NotImplementedException();
   }
+
+  @RequestMapping(value = "/{productId}", method = RequestMethod.POST,
+      produces = MediaType.APPLICATION_JSON_VALUE)
+  public Mono<Response<Product>> create(@PathVariable("productId") String productId) {
+    throw new NotImplementedException();
+  }
 }
