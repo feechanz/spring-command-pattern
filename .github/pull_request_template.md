@@ -1,4 +1,4 @@
-## Jira Link
+## Issue Link
 <!-- Add corresponding Issue link here and make PR's Title starting with the Issue ID. 
 
 For Example:
