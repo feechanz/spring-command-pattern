@@ -1,10 +1,12 @@
 ## Jira Link
-<!-- Add corresponding Jira link here and make PR's Title starting with the Jira ID. 
+<!-- Add corresponding Issue link here and make PR's Title starting with the Issue ID. 
 
 For Example:
-Jira link - https://29022131.atlassian.net/browse/EXP-7344
+Issue link - https://github.com/feechanz/spring-command-pattern/issues/8321
 Then PR's title should be: 
-[EXP-7344] Title for the PR
+[8321] Title for the PR
+
+Put this section empty if you don't have any Issue Link
 -->
 
 ## Summary
